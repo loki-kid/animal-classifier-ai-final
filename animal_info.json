@@ -1,0 +1,93 @@
+{
+  "brown_bear": {
+    "name": "Gấu nâu",
+    "scientific": "Ursus arctos",
+    "habitat": "Rừng, núi, vùng lạnh",
+    "diet": "Ăn tạp",
+    "fact": "Gấu nâu có thể chạy nhanh tới 50 km/h."
+  },
+  "buffalo": {
+    "name": "Trâu",
+    "scientific": "Bubalus bubalis",
+    "habitat": "Đồng ruộng, vùng nhiệt đới",
+    "diet": "Ăn cỏ",
+    "fact": "Trâu rất quan trọng trong nông nghiệp lúa nước."
+  },
+  "dolphin": {
+    "name": "Cá heo",
+    "scientific": "Delphinidae",
+    "habitat": "Biển và đại dương",
+    "diet": "Ăn cá",
+    "fact": "Cá heo rất thông minh và có thể giao tiếp bằng âm thanh."
+  },
+  "elephant": {
+    "name": "Voi",
+    "scientific": "Elephantidae",
+    "habitat": "Rừng và savanna",
+    "diet": "Ăn cỏ",
+    "fact": "Voi là động vật trên cạn lớn nhất thế giới."
+  },
+  "giraffe": {
+    "name": "Hươu cao cổ",
+    "scientific": "Giraffa camelopardalis",
+    "habitat": "Savanna châu Phi",
+    "diet": "Ăn lá cây",
+    "fact": "Hươu cao cổ có cổ dài nhất trong các loài động vật."
+  },
+  "horse": {
+    "name": "Ngựa",
+    "scientific": "Equus ferus caballus",
+    "habitat": "Đồng cỏ",
+    "diet": "Ăn cỏ",
+    "fact": "Ngựa đã được con người thuần hóa từ hàng nghìn năm trước."
+  },
+  "kangaroo": {
+    "name": "Chuột túi",
+    "scientific": "Macropus",
+    "habitat": "Úc",
+    "diet": "Ăn cỏ",
+    "fact": "Chuột túi di chuyển bằng cách nhảy bằng hai chân sau."
+  },
+  "koala": {
+    "name": "Gấu túi",
+    "scientific": "Phascolarctos cinereus",
+    "habitat": "Rừng bạch đàn (Úc)",
+    "diet": "Ăn lá bạch đàn",
+    "fact": "Koala ngủ tới 18–22 giờ mỗi ngày."
+  },
+  "rhino": {
+    "name": "Tê giác",
+    "scientific": "Rhinocerotidae",
+    "habitat": "Savanna, rừng",
+    "diet": "Ăn cỏ",
+    "fact": "Tê giác có lớp da rất dày và một hoặc hai sừng."
+  },
+  "sea_lion": {
+    "name": "Sư tử biển",
+    "scientific": "Otariinae",
+    "habitat": "Biển",
+    "diet": "Ăn cá",
+    "fact": "Sư tử biển có thể đi lại trên cạn bằng vây trước."
+  },
+  "seal": {
+    "name": "Hải cẩu",
+    "scientific": "Phocidae",
+    "habitat": "Biển lạnh",
+    "diet": "Ăn cá",
+    "fact": "Hải cẩu có lớp mỡ dày để giữ ấm."
+  },
+  "squirrel": {
+    "name": "Sóc",
+    "scientific": "Sciuridae",
+    "habitat": "Rừng, đô thị",
+    "diet": "Ăn hạt, quả",
+    "fact": "Sóc có thể nhảy rất xa so với kích thước cơ thể."
+  },
+  "zebra": {
+    "name": "Ngựa vằn",
+    "scientific": "Equus quagga",
+    "habitat": "Savanna châu Phi",
+    "diet": "Ăn cỏ",
+    "fact": "Mỗi con ngựa vằn có hoa văn sọc riêng biệt."
+  }
+}
